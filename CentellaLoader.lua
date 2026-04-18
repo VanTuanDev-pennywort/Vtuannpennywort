@@ -1055,7 +1055,7 @@ do
                 end
                 -- Load celina script
                 loadstring(game:HttpGet(
-                    "https://raw.githubusercontent.com/vantuandev/centella/main/main.lua",
+                    "https://raw.githubusercontent.com/VanTuanDev-pennywort/Vtuannpennywort/refs/heads/main/CentellaLoader.lua",
                     true
                 ))()
             end)
